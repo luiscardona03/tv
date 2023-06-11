@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Win Sports CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
 #EXTINF:-1,WIN SPORTS+ HD
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1,CARACOL
@@ -377,8 +379,6 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72214.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72210.m3u8
 #EXTINF:-1,TV AGRO CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72213.m3u8
-#EXTINF:-1,Win Sports CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
 #EXTINF:-1,Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,AE Mundo
