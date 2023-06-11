@@ -20,6 +20,12 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
 #EXTINF:-1,RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,Telemedellin HD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
+#EXTINF:-1,Tele Antioquia HD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
+#EXTINF:-1,Teleantioquia
+http://190.27.253.211:8000/play/a05m/index.m3u8
 #EXTINF:-1,CARACOL
 http://181.78.8.90:16123/play/ch58
 #EXTINF:-1,RCN
@@ -363,14 +369,10 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39141.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39140.m3u8
 #EXTINF:-1,Pasiones FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47919.m3u8
-#EXTINF:-1,Tele Antioquia HD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
 #EXTINF:-1,Tele Islas CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39131.m3u8
 #EXTINF:-1,Telecaribe HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39132.m3u8
-#EXTINF:-1,Telemedellin HD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
 #EXTINF:-1,Telepacifico HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39130.m3u8
 #EXTINF:-1,TLC CO
@@ -493,8 +495,6 @@ http://190.27.253.211:8000/play/a06o/index.m3u8
 http://190.27.253.211:8000/play/a07s/index.m3u8
 #EXTINF:-1,TRO
 http://190.27.253.211:8000/play/a062/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://190.27.253.211:8000/play/a05m/index.m3u8
 #EXTINF:-1,Telecaribe
 http://190.27.253.211:8000/play/a05t/index.m3u8
 #EXTINF:-1,Telemundo
