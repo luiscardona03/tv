@@ -1,12 +1,25 @@
 #EXTM3U
-#EXTINF:-1,Win Sports Plus FHD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,Win Sports CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
+#EXTINF:-1,Win Sports Plus FHD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,WIN SPORTS+ HD
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1,CARACOL
 http://181.78.8.90:16123/play/ch58
+#EXTINF:-1,Caracol CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
+#EXTINF:-1,Caracol FHD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
+#EXTINF:-1,Caracol Internacional CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
+#EXTINF:-1,RCN HD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35731.m3u8
+#EXTINF:-1,RCN International HD CO
+http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
+#EXTINF:-1,RCN Novelas CO
+#EXTINF:-1,RCN+
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,RCN
 http://181.78.8.90:16123/play/ch59
 #EXTINF:-1,SEÑAL COLOMBIA
@@ -248,8 +261,6 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8
 #EXTINF:-1,Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1,RCN+
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1,RT en Español
@@ -308,12 +319,7 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72221.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72220.m3u8
 #EXTINF:-1,Canal Uno CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72211.m3u8
-#EXTINF:-1,Caracol CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
-#EXTINF:-1,Caracol FHD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
-#EXTINF:-1,Caracol Internacional CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
+
 #EXTINF:-1,City TV CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39145.m3u8
 #EXTINF:-1,Claro Cinema HD CO
@@ -356,11 +362,6 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39141.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39140.m3u8
 #EXTINF:-1,Pasiones FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47919.m3u8
-#EXTINF:-1,RCN HD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35731.m3u8
-#EXTINF:-1,RCN International HD CO
-http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
-#EXTINF:-1,RCN Novelas CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
 #EXTINF:-1,Tele Antioquia HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
