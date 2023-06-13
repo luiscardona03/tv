@@ -24,21 +24,23 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,Telemedellin HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",Telemedellin HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
-#EXTINF:-1,Teleantioquia HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
 http://190.27.253.211:8000/play/a05m/index.m3u8
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CARACOL
 http://181.78.8.90:16123/play/ch58
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN
 http://181.78.8.90:16123/play/ch59
-#EXTINF:-1,SEÑAL COLOMBIA
+
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",SEÑAL COLOMBIA
 http://181.78.8.90:16123/play/ch61
-#EXTINF:-1,CANAL 1
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CANAL 1
 http://181.78.8.90:16123/play/ch63
-#EXTINF:-1,TELEMEDELLIN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",TELEMEDELLIN
 http://181.78.8.90:16123/play/ch73
 #EXTINF:-1,CAPITAL
 http://181.78.8.90:16123/play/ch70
@@ -277,10 +279,10 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1,Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Teleantioquia 2
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia 2
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1,Telecafé
@@ -460,7 +462,7 @@ http://190.27.253.211:8000/play/a09z/index.m3u8
 http://190.27.253.211:8000/play/a05c/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.27.253.211:8000/play/a06w/index.m3u8
-#EXTINF:-1,Señal Colombia
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",Señal Colombia
 http://190.27.253.211:8000/play/a05z/index.m3u8
 #EXTINF:-1,Sony
 http://190.27.253.211:8000/play/a05d/index.m3u8
@@ -498,7 +500,7 @@ http://190.27.253.211:8000/play/a068/index.m3u8
 http://190.27.253.211:8000/play/a061/index.m3u8
 #EXTINF:-1,TLNOVELAS
 http://181.78.8.90:16123/play/ch45
-#EXTINF:-1,TELEANTIOQUIA
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",TELEANTIOQUIA
 http://181.78.8.90:16123/play/ch65
 #EXTINF:-1 tvg-id="" tvg-name="ARG : CINE AR HD" tvg-logo="https://static.wixstatic.com/media/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png" group-title="ARGENTINA",ARG : CINE AR HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
@@ -536,13 +538,13 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/103985.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82948.ts
 #EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN opcion 2" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN opcion 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166706.ts
-#EXTINF:-1 tvg-id="senal.co" tvg-name="CO : SENAL COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-i1GbE-8LH_I/X-xxWTlm3hI/AAAAAAAA7As/PUhAxrjyG7wUP094cIWKvOssNGPH92GVgCLcBGAsYHQ/s1080/sc.png" group-title="COLOMBIA",CO : SENAL COLOMBIA
+#EXTINF:-1 tvg-id="senal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",,CO : SEÑAL COLOMBIA
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166704.ts
 #EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO : TELECAFE" tvg-logo="https://1.bp.blogspot.com/-kq3imjYQQ8I/X-xxYj1KTpI/AAAAAAAA7A4/_7Gwa9Mhebom7_JQ3qqyCWkdojmOJ3lDQCLcBGAsYHQ/s1080/tc.png" group-title="COLOMBIA",CO : TELECAFE
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166702.ts
 #EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO : TELECARIBE SD" tvg-logo="https://1.bp.blogspot.com/-aJISXbZyDto/X-xxY4tpGRI/AAAAAAAA7A8/jPPN3a8Z9tQbJWEGtL8vVwYrd_RLcU58wCLcBGAsYHQ/s1080/tcc.png" group-title="COLOMBIA",CO : TELECARIBE SD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48231.ts
-#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO : TELEMEDELLIN" tvg-logo="https://1.bp.blogspot.com/-SDayNWvdZGU/YHiQ2xvVmcI/AAAAAAAA9PU/j6EDVsMOBBY61y3Hz6ksV74BALRnOoDpwCLcBGAsYHQ/s1080/telemedellin.png" group-title="COLOMBIA",CO : TELEMEDELLIN
+#EXTINF:-1 tvg-id="telemedellin.co" ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",CO : TELEMEDELLIN
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/89017.ts
 #EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO : TELEPACIFICO" tvg-logo="https://1.bp.blogspot.com/-A6N2G2LAn9M/YHiR9-tcXiI/AAAAAAAA9Pc/SaRiU7kapzkS7MjaNiUI124iVKZHsN1IACLcBGAsYHQ/s1080/telepacifico.png" group-title="COLOMBIA",CO : TELEPACIFICO
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/88981.ts
