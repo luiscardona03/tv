@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG : CINE AR HD" tvg-logo="https://static.wixstatic.com/media/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png/v1/fill/w_504,CINE AR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : TNT HD" tvg-logo="https://static.wixstatic.com/media/25b08b_8ea8b368a2f442a493e7894bdc1158e4~mv2.png/v1/fill/w_562,TNT HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52521.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="https://static.wixstatic.com/media/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png/v1/fill/w_1500,CINE ACCIÓN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87461.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION SAGA" tvg-logo="https://static.wixstatic.com/media/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png/v1/fill/w_1500,CINE ACCIÓN SAGA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/338203.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL *" tvg-logo="https://static.wixstatic.com/media/25b08b_a5b05bb823194bccb130887e054bc088~mv2.png/v1/fill/w_777,CINE MARVEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SAGA MAGIA*" tvg-logo="https://static.wixstatic.com/media/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png/v1/fill/w_777,h_777,al_c,usm_0.66_1.00_0.01/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png" group-title="CINE PTY",CINE SAGA MAGIA*
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/332004.ts
 #EXTINF:-1,Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,WIN SPORTS+ HD
