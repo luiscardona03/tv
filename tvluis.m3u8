@@ -120,7 +120,7 @@ http://181.78.8.90:16123/play/ch27
 http://181.78.8.90:16123/play/ch28
 #EXTINF:-1,tvg-logo="https://cavex.org/wp-content/uploads/listing-uploads/gallery/2022/08/62bdf8d700453.png" group-title="Entretenimiento",AGROTENDENCIA
 http://181.78.8.90:16123/play/ch31
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.pngg" group-title="Entretenimiento",CGTN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="Entretenimiento",CGTN
 http://181.78.8.90:16123/play/ch32
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento",MAS CHIC
 http://181.78.8.90:16123/play/ch33
