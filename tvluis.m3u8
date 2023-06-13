@@ -1,70 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",Win Sports Plus FHD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Deportes",Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",WIN SPORTS+ HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Deportes",WIN SPORTS+ HD
 http://190.27.253.211:8000/play/a07g/index.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",WIN + HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Deportes",WIN + HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39153.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="COLOMBIA",Win Sports CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="Deportes",Win Sports CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="COLOMBIA",Win
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="Deportes",Win
 http://190.27.253.211:8000/play/a05n/index.m3u8
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="Tv Colombiana",Caracol CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol FHD CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="Tv Colombiana",Caracol FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol Internacional CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="Tv Colombiana",Caracol Internacional CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="Tv Colombiana",RCN HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35731.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN International HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="Tv Colombiana",RCN International HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN Novelas CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="Tv Colombiana",RCN Novelas CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="Tv Colombiana",RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",Telemedellin HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Tv Colombiana",Telemedellin HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="Tv Colombiana",Teleantioquia HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="Tv Colombiana",Teleantioquia
 http://190.27.253.211:8000/play/a05m/index.m3u8
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CARACOL
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="Tv Colombiana",CARACOL
 http://181.78.8.90:16123/play/ch58
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="Tv Colombiana",RCN
 http://181.78.8.90:16123/play/ch59
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",SEÑAL COLOMBIA
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Tv Colombiana",SEÑAL COLOMBIA
 http://181.78.8.90:16123/play/ch61
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CANAL 1
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Tv Colombiana",CANAL 1
 http://181.78.8.90:16123/play/ch63
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",TELEMEDELLIN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Tv Colombiana",TELEMEDELLIN
 http://181.78.8.90:16123/play/ch73
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",CAPITAL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="Tv Colombiana",CAPITAL
 http://181.78.8.90:16123/play/ch70
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",ZOOM
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="",ZOOM
 http://181.78.8.90:16123/play/ch71
-#EXTINF:-1,tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="COLOMBIA",TELEPACIFICO
+#EXTINF:-1,tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="Tv Colombiana",TELEPACIFICO
 http://181.78.8.90:16123/play/ch66
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",TELECAFE
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="Tv Colombiana",TELECAFE
 http://181.78.8.90:16123/play/ch67
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="COLOMBIA",EL TIEMPO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="Tv Colombiana",EL TIEMPO
 http://181.78.8.90:16123/play/ch42
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="COLOMBIA",SPACE HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Series & Películas",SPACE HD
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="COLOMBIA",TNT
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="Series & Películas",TNT
 http://181.78.8.90:16123/play/a08i
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="COLOMBIA",TNT Series HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Series & Películas",TNT Series HD
 http://181.78.8.90:16123/play/a067
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="COLOMBIA",STAR
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="Series & Películas",STAR
 http://181.78.8.90:16123/play/ch07
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="COLOMBIA",FX
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Series & Películas",FX
 http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE & SERIES",CINECANAL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Series & Películas",CINECANAL
 http://181.78.8.90:16123/play/ch10
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CINE & SERIES",ANIMAL PLANET
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",ANIMAL PLANET
 http://181.78.8.90:16123/play/ch29
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="DOCUMENTALES",NATGEO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Documentales",NATGEO
 http://181.78.8.90:16123/play/ch30
 #EXTINF:-1,DISNEY JR
 http://181.78.8.90:16123/play/ch05
