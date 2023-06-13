@@ -50,11 +50,11 @@ http://181.78.8.90:16123/play/ch66
 http://181.78.8.90:16123/play/ch67
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="COLOMBIA",EL TIEMPO
 http://181.78.8.90:16123/play/ch42
-#EXTINF:-1,SPACE HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="COLOMBIA",SPACE HD
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,TNT
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="COLOMBIA",TNT
 http://181.78.8.90:16123/play/a08i
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="COLOMBIA",TNT Series HD
 http://181.78.8.90:16123/play/a067
 #EXTINF:-1,STAR
 http://181.78.8.90:16123/play/ch07
@@ -462,7 +462,7 @@ http://190.27.253.211:8000/play/a06w/index.m3u8
 http://190.27.253.211:8000/play/a05z/index.m3u8
 #EXTINF:-1,Sony
 http://190.27.253.211:8000/play/a05d/index.m3u8
-#EXTINF:-1,SPACE
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="COLOMBIA",SPACE
 http://190.27.253.211:8000/play/a05k/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.27.253.211:8000/play/a07d/index.m3u8
@@ -474,9 +474,9 @@ http://190.27.253.211:8000/play/a073/index.m3u8
 http://190.27.253.211:8000/play/a06m/index.m3u8
 #EXTINF:-1,TLC
 http://190.27.253.211:8000/play/a06d/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="COLOMBIA",TNT
 http://190.27.253.211:8000/play/a06o/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="COLOMBIA",TNT Series HD
 http://190.27.253.211:8000/play/a07s/index.m3u8
 #EXTINF:-1,TRO
 http://190.27.253.211:8000/play/a062/index.m3u8
@@ -500,7 +500,7 @@ http://181.78.8.90:16123/play/ch45
 http://181.78.8.90:16123/play/ch65
 #EXTINF:-1 tvg-id="" tvg-name="ARG : CINE AR HD" tvg-logo="https://static.wixstatic.com/media/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png" group-title="ARGENTINA",ARG : CINE AR HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG : TNT HD" tvg-logo="https://static.wixstatic.com/media/25b08b_8ea8b368a2f442a493e7894bdc1158e4~mv2.png/v1/fill/w_562,h_562,al_c,usm_0.66_1.00_0.01/25b08b_8ea8b368a2f442a493e7894bdc1158e4~mv2.png" group-title="ARGENTINA",ARG : TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="ARG : TNT HD" ,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="COLOMBIA",ARG : TNT HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52521.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="https://static.wixstatic.com/media/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png/v1/fill/w_1500,h_1500,al_c/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png" group-title="CINE PTY",CINE ACCION
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87461.ts
