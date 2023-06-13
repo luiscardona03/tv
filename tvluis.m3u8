@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CO : CARACOL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO : CARACOL 
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/203108.ts
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",WIN SPORTS+ HD
@@ -11,19 +10,19 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39153.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="COLOMBIA",Win
 http://190.27.253.211:8000/play/a05n/index.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol FHD CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol Internacional CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",Caracol Internacional CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35731.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN International HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN International HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN Novelas CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN Novelas CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",Telemedellin HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
@@ -31,19 +30,17 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
 http://190.27.253.211:8000/play/a05m/index.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CARACOL
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CARACOL
 http://181.78.8.90:16123/play/ch58
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN
 http://181.78.8.90:16123/play/ch59
-
-
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",SEÑAL COLOMBIA
 http://181.78.8.90:16123/play/ch61
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CANAL 1
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CANAL 1
 http://181.78.8.90:16123/play/ch63
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",TELEMEDELLIN
 http://181.78.8.90:16123/play/ch73
-#EXTINF:-1,CAPITAL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",CAPITAL
 http://181.78.8.90:16123/play/ch70
 #EXTINF:-1,ZOOM
 http://181.78.8.90:16123/play/ch71
@@ -194,7 +191,7 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Campo Televisión
 https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
-#EXTINF:-1,Canal 1
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Canal 2 Alpavisión
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
@@ -206,7 +203,7 @@ https://video2.lhdserver.es/canal9cosespu/live.m3u8
 https://eu1.servers10.com:19360/8056/8056.m3u8
 #EXTINF:-1,Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,Canal Capital HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",Canal Capital HD
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1,Canal Institucional HD
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
@@ -313,9 +310,9 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72212.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47921.m3u8
 #EXTINF:-1,CANAL TRO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72221.m3u8
-#EXTINF:-1,CANAL UNO CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CANAL UNO CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72220.m3u8
-#EXTINF:-1,Canal Uno CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal Uno CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72211.m3u8
 #EXTINF:-1,City TV CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39145.m3u8
@@ -459,7 +456,7 @@ http://190.27.253.211:8000/play/a06f/index.m3u8
 http://190.27.253.211:8000/play/a07c/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.27.253.211:8000/play/a09z/index.m3u8
-#EXTINF:-1,RCN HD
+#EXTINF:-1,tvg-name="CO : RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
 http://190.27.253.211:8000/play/a05c/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.27.253.211:8000/play/a06w/index.m3u8
@@ -515,15 +512,15 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/338203.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE SAGA MAGIA*" tvg-logo="https://static.wixstatic.com/media/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png/v1/fill/w_777,h_777,al_c,usm_0.66_1.00_0.01/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png" group-title="CINE PTY",CINE SAGA MAGIA
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/332004.ts
-#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO : CANAL 1" tvg-logo="https://1.bp.blogspot.com/-9T_S6Gq8yvg/X-xxSjidnyI/AAAAAAAA7AY/YEsfwIvRk1wM4SqEDRHSzSUx4IiDX_B5gCLcBGAsYHQ/s1080/cu.png" group-title="COLOMBIA",CO : CANAL 1
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO : CANAL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",CO : CANAL 1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166707.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO : CARACOL " tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL 
+#EXTINF:-1 tvg-id="" tvg-name="CO : CARACOL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO : CARACOL 
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/203108.ts
-#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL FHD (OPC1)" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL FHD (OPC1)
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL FHD (OPC1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO : CARACOL FHD (OPC1)
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94119.ts
-#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL INTERNACIONAL 2" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL INTERNACIONAL 2
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL INTERNACIONAL 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO : CARACOL INTERNACIONAL 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85250.ts
-#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO : CARACOL OPCION 2" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL OPCION 2
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO : CARACOL OPCION 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es" group-title="COLOMBIA",CO : CARACOL OPCION 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107504.ts
 #EXTINF:-1 tvg-id="citytv.co" tvg-name="CO : CITY TV" tvg-logo="https://1.bp.blogspot.com/-Q_MvVfZw1MY/X-xxRQjlj_I/AAAAAAAA7AM/VIXU6y9b5UIUlKU8cA3myiu6RUtp8C9aACLcBGAsYHQ/s1080/city.png" group-title="COLOMBIA",CO : CITY TV
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166710.ts
@@ -531,13 +528,13 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166710.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146935.ts
 #EXTINF:-1 tvg-id="pasiones.co" tvg-name="CO : PASIONES" tvg-logo="https://static.wixstatic.com/media/25b08b_7c3d7709785743d1892bb5463d0f4400~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_7c3d7709785743d1892bb5463d0f4400~mv2.png" group-title="COLOMBIA",CO : PASIONES
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107056.ts
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",CO : RCN
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166705.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO : RCN  HD2" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN  HD2
+#EXTINF:-1 tvg-id="" tvg-name="CO : RCN  HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",CO : RCN  HD2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/103985.ts
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN NUESTRA TELE" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN NUESTRA TELE
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",CO : RCN NUESTRA TELE
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82948.ts
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN opcion 2" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN opcion 2
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN opcion 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",CO : RCN opcion 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166706.ts
 #EXTINF:-1 tvg-id="senal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",,CO : SEÑAL COLOMBIA
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166704.ts
