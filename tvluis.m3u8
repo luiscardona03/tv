@@ -50,61 +50,59 @@ http://181.78.8.90:16123/play/ch66
 http://181.78.8.90:16123/play/ch67
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="Tv Colombiana",EL TIEMPO
 http://181.78.8.90:16123/play/ch42
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Series & Películas",SPACE HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Cine & Series",SPACE HD
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="Series & Películas",TNT
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/TNT_LatAm_2011.svg/revision/latest/scale-to-width-down/200?cb=20221018052008&path-prefix=es" group-title="Cine & Series",TNT
 http://181.78.8.90:16123/play/a08i
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Series & Películas",TNT Series HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Cine & Series",TNT Series HD
 http://181.78.8.90:16123/play/a067
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="Series & Películas",STAR
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="Cine & Series",STAR
 http://181.78.8.90:16123/play/ch07
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Series & Películas",FX
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Cine & Series",FX
 http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Series & Películas",CINECANAL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine & Series",CINECANAL
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",ANIMAL PLANET
 http://181.78.8.90:16123/play/ch29
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Documentales",NATGEO
 http://181.78.8.90:16123/play/ch30
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="Infantil",DISNEY JR
 http://181.78.8.90:16123/play/ch05
-#EXTINF:-1,INFANTIL
+#EXTINF:-1,tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="Infantil",CANAL INFANTIL
 http://181.78.8.90:16123/play/ch06
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil",DISCOVERY KIDS
 http://181.78.8.90:16123/play/ch02
-#EXTINF:-1,Tooncast
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantil",Tooncast
 http://181.78.8.90:16123/play/a068
-#EXTINF:-1,DISNEY
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="Infantil",DISNEY
 http://181.78.8.90:16123/play/ch03
-#EXTINF:-1,BABYTV
+#EXTINF:-1,tvg-logo="https://www.babytv.com/app/uploads/2019/12/myBabyTV-Logo-01.png" group-title="Infantil",BABYTV
 http://181.78.8.90:16123/play/ch01
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",ZOOM
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="Tv Colombiana",ZOOM
 http://181.78.8.90:16123/play/ch04
-#EXTINF:-1,EUROCHANNEL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Eurochannel.png" group-title="Cine & Series",EUROCHANNEL
 http://181.78.8.90:16123/play/ch09
-#EXTINF:-1,FILM & ARTES
+#EXTINF:-1,tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-black-and-white.png" group-title="Cine & Series",FILM & ARTES
 http://181.78.8.90:16123/play/ch11
-#EXTINF:-1,CINEMA+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="Cine & Series",CINEMA+
 http://181.78.8.90:16123/play/ch12a
-#EXTINF:-1,TBS
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Cine & Series",TBS
 http://181.78.8.90:16123/play/ch12
-#EXTINF:-1,AMC
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Cine & Series",AMC
 http://181.78.8.90:16123/play/ch13
-#EXTINF:-1,DHE
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Cine & Series",DHE
 http://181.78.8.90:16123/play/ch14
-#EXTINF:-1,CONEXION
-http://181.78.8.90:16123/play/ch15
-#EXTINF:-1,ESPN
+#EXTINF:-1,tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1,ESPN2
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Deportes",ESPN2
 http://181.78.8.90:16123/play/ch17
-#EXTINF:-1,ESPN3
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN3
 http://181.78.8.90:16123/play/ch18
-#EXTINF:-1,ESPN4
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN4
 http://181.78.8.90:16123/play/ch19
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="Deportes",FOX SPORTS 2
 http://181.78.8.90:16123/play/ch20
-#EXTINF:-1,FOX SPORTS 3
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3
 http://181.78.8.90:16123/play/ch21
 #EXTINF:-1,DISCOVERY
 http://181.78.8.90:16123/play/ch22
