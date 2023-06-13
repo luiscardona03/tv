@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,Win Sports Plus FHD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
-#EXTINF:-1,WIN SPORTS+ HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",WIN SPORTS+ HD
 http://190.27.253.211:8000/play/a07g/index.m3u8
-#EXTINF:-1,WIN + HD CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",WIN + HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39153.m3u8
-#EXTINF:-1,Win Sports CO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="COLOMBIA",Win Sports CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
-#EXTINF:-1,Win
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png" group-title="COLOMBIA",Win
 http://190.27.253.211:8000/play/a05n/index.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA", Caracol CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA", CARACOL FHD
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
-#EXTINF:-1,Caracol Internacional CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",Caracol Internacional CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
-#EXTINF:-1,RCN HD CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35731.m3u8
-#EXTINF:-1,RCN International HD CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN International HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/35730.m3u8
-#EXTINF:-1,RCN Novelas CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN Novelas CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47916.m3u8
-#EXTINF:-1,RCN+
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,Telemedellin HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
@@ -30,9 +30,9 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39142.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39135.m3u8
 #EXTINF:-1,Teleantioquia
 http://190.27.253.211:8000/play/a05m/index.m3u8
-#EXTINF:-1,CARACOL
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CARACOL
 http://181.78.8.90:16123/play/ch58
-#EXTINF:-1,RCN
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",RCN
 http://181.78.8.90:16123/play/ch59
 #EXTINF:-1,SEÑAL COLOMBIA
 http://181.78.8.90:16123/play/ch61
@@ -60,7 +60,7 @@ http://181.78.8.90:16123/play/a067
 http://181.78.8.90:16123/play/ch07
 #EXTINF:-1,FX
 http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,CINECANAL
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",CINECANAL
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1,ANIMAL PLANET
 http://181.78.8.90:16123/play/ch29
@@ -388,7 +388,7 @@ http://190.27.253.211:8000/play/a064/index.m3u8
 http://190.27.253.211:8000/play/a05b/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://190.27.253.211:8000/play/a07b/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",Cinecanal HD
 http://190.27.253.211:8000/play/a077/index.m3u8
 #EXTINF:-1,Cinemax
 http://190.27.253.211:8000/play/a05h/index.m3u8
