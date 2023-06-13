@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 : 12 CORAZONES" tvg-logo="https://static.wixstatic.com/media/25b08b_14a8f65b503249c3b75fa8944229b384~mv2.png/v1/fill/w_720,h_720,al_c,usm_0.66_1.00_0.01/25b08b_14a8f65b503249c3b75fa8944229b384~mv2.png" group-title="24/7",24/7 : 12 CORAZONES
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339651.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 : ADUANA 24/7 PANAMA" tvg-logo="https://1.bp.blogspot.com/-Lyk8Me-0w4c/X-9p-CGo0RI/AAAAAAAA7Dw/BSNDlOsFpqYTvdEXA23rXUUWoDwdIxtawCLcBGAsYHQ/s1080/al.png" group-title="24/7",24/7 : ADUANA 24/7 PANAMA
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117310.ts
+
 #EXTINF:-1,Win Sports Plus FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/58985.m3u8
 #EXTINF:-1,WIN SPORTS+ HD
