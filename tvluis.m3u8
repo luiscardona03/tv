@@ -104,36 +104,35 @@ http://181.78.8.90:16123/play/ch19
 http://181.78.8.90:16123/play/ch20
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3
 http://181.78.8.90:16123/play/ch21
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1,tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentales",DISCOVERY
 http://181.78.8.90:16123/play/ch22
-#EXTINF:-1,ID
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Documentales",ID
 http://181.78.8.90:16123/play/ch23
-#EXTINF:-1,TURBO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales",TURBO
 http://181.78.8.90:16123/play/ch24
-#EXTINF:-1,DISCOVERY H&H
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Documentales",DISCOVERY H&H
 http://181.78.8.90:16123/play/ch25
-#EXTINF:-1,TLC
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Cine & Series",TLC
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,EL GOURMET
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Gastronomía",EL GOURMET
 http://181.78.8.90:16123/play/ch27
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Gastronomía",FOOD NETWORK
 http://181.78.8.90:16123/play/ch28
-#EXTINF:-1,AGROTENDENCIA
+#EXTINF:-1,tvg-logo="https://cavex.org/wp-content/uploads/listing-uploads/gallery/2022/08/62bdf8d700453.png" group-title="Entretenimiento",AGROTENDENCIA
 http://181.78.8.90:16123/play/ch31
-#EXTINF:-1,CGTN
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.pngg" group-title="Entretenimiento",CGTN
 http://181.78.8.90:16123/play/ch32
-#EXTINF:-1,MAS CHIC
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento",MAS CHIC
 http://181.78.8.90:16123/play/ch33
-#EXTINF:-1,GLITZ
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Entretenimiento",GLITZ
 http://181.78.8.90:16123/play/ch34
-#EXTINF:-1,PASIONES
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",PASIONES
 http://181.78.8.90:16123/play/ch35
-#EXTINF:-1,TELEISLAS
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Teleislas_2012.svg/revision/latest/scale-to-width-down/1200?cb=20170823230953" group-title="Entretenimiento",TELEISLAS
 http://181.78.8.90:16123/play/ch37
-#EXTINF:-1,LA KALLE
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/2560px-La_Kalle_Colombia_logo.svg.png" group-title="Entretenimiento",LA KALLE
 http://181.78.8.90:16123/play/ch41
-#EXTINF:-1,FRANCE 24
-http://181.78.8.90:16123/play/a069
+
 #EXTINF:-1,LAS ESTRELLAS
 http://181.78.8.90:16123/play/ch44
 #EXTINF:-1,GOLDEN
