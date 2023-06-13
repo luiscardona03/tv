@@ -56,15 +56,15 @@ http://181.78.8.90:16123/play/a066
 http://181.78.8.90:16123/play/a08i
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="COLOMBIA",TNT Series HD
 http://181.78.8.90:16123/play/a067
-#EXTINF:-1,STAR
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="COLOMBIA",STAR
 http://181.78.8.90:16123/play/ch07
-#EXTINF:-1,FX
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="COLOMBIA",FX
 http://181.78.8.90:16123/play/ch08
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",CINECANAL
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE & SERIES",CINECANAL
 http://181.78.8.90:16123/play/ch10
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CINE & SERIES",ANIMAL PLANET
 http://181.78.8.90:16123/play/ch29
-#EXTINF:-1,NATGEO
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="DOCUMENTALES",NATGEO
 http://181.78.8.90:16123/play/ch30
 #EXTINF:-1,DISNEY JR
 http://181.78.8.90:16123/play/ch05
@@ -376,7 +376,7 @@ http://190.27.253.211:8000/play/a06c/index.m3u8
 http://190.27.253.211:8000/play/a078/index.m3u8
 #EXTINF:-1,AXN
 http://190.27.253.211:8000/play/a05j/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CINE & SERIES",Animal Planet HD
 http://190.27.253.211:8000/play/a07h/index.m3u8
 #EXTINF:-1,Canal 13 HD
 http://190.27.253.211:8000/play/a06t/index.m3u8
@@ -386,7 +386,7 @@ http://190.27.253.211:8000/play/a05x/index.m3u8
 http://190.27.253.211:8000/play/a05b/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://190.27.253.211:8000/play/a07b/index.m3u8
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",Cinecanal HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE & SERIES",Cinecanal HD
 http://190.27.253.211:8000/play/a077/index.m3u8
 #EXTINF:-1,Cinemax
 http://190.27.253.211:8000/play/a05h/index.m3u8
@@ -422,7 +422,7 @@ http://190.27.253.211:8000/play/a07u/index.m3u8
 http://190.27.253.211:8000/play/a0a1/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://190.27.253.211:8000/play/a07q/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="COLOMBIA",FX HD
 http://190.27.253.211:8000/play/a07t/index.m3u8
 #EXTINF:-1,Fox Sports 1 HD
 http://190.27.253.211:8000/play/a071/index.m3u8
@@ -456,7 +456,7 @@ http://190.27.253.211:8000/play/a07c/index.m3u8
 http://190.27.253.211:8000/play/a09z/index.m3u8
 #EXTINF:-1,tvg-name="CO : RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
 http://190.27.253.211:8000/play/a05c/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" group-title="COLOMBIA",STAR CHANNEL HD
 http://190.27.253.211:8000/play/a06w/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",Señal Colombia
 http://190.27.253.211:8000/play/a05z/index.m3u8
@@ -554,11 +554,11 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324622.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/260518.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324326.ts
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="DIRECTO : ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="DIRECTO : ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="",DIRECTO : ANIMAL PLANET
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/154992.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323866.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET opcion 2" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET opcion 2
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET opcion 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET opcion 2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166509.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324319.ts
@@ -574,7 +574,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166508.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323869.ts
 #EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="DIRECTO : CINE LATINO" tvg-logo="https://static.wixstatic.com/media/25b08b_a6b23037e4b64d888cdb79acdcb435ff~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_a6b23037e4b64d888cdb79acdcb435ff~mv2.png" group-title="CINE & SERIES",DIRECTO : CINE LATINO
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/276217.ts
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="DIRECTO : CINECANAL (COL)" tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",DIRECTO : CINECANAL (COL)
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="DIRECTO : CINECANAL (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE & SERIES",DIRECTO : CINECANAL (COL)
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/124042.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-e7RHsQX4XO4/X_GzZjeCBlI/AAAAAAAA7MA/624NP-2YN34PpIvgsVNcZZoC0nPw7zh5ACLcBGAsYHQ/s1080/CINMA.png" group-title="CINE & SERIES",DIRECTO : CINEMAX HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324325.ts
