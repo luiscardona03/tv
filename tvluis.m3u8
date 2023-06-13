@@ -34,12 +34,8 @@ http://181.78.8.90:16123/play/ch59
 http://181.78.8.90:16123/play/ch61
 #EXTINF:-1,CANAL 1
 http://181.78.8.90:16123/play/ch63
-#EXTINF:-1,TELEANTIOQUIA
-http://181.78.8.90:16123/play/ch65
 #EXTINF:-1,TELEMEDELLIN
 http://181.78.8.90:16123/play/ch73
-#EXTINF:-1,CONGRESO
-http://181.78.8.90:16123/play/ch69
 #EXTINF:-1,CAPITAL
 http://181.78.8.90:16123/play/ch70
 #EXTINF:-1,ZOOM
@@ -72,6 +68,8 @@ http://181.78.8.90:16123/play/ch05
 http://181.78.8.90:16123/play/ch06
 #EXTINF:-1,DISCOVERY KIDS
 http://181.78.8.90:16123/play/ch02
+#EXTINF:-1,Tooncast
+http://181.78.8.90:16123/play/a068
 #EXTINF:-1,DISNEY
 http://181.78.8.90:16123/play/ch03
 #EXTINF:-1,BABYTV
@@ -118,8 +116,6 @@ http://181.78.8.90:16123/play/ch26
 http://181.78.8.90:16123/play/ch27
 #EXTINF:-1,FOOD NETWORK
 http://181.78.8.90:16123/play/ch28
-#EXTINF:-1,Tooncast
-http://181.78.8.90:16123/play/a068
 #EXTINF:-1,AGROTENDENCIA
 http://181.78.8.90:16123/play/ch31
 #EXTINF:-1,CGTN
@@ -138,8 +134,6 @@ http://181.78.8.90:16123/play/ch41
 http://181.78.8.90:16123/play/a069
 #EXTINF:-1,LAS ESTRELLAS
 http://181.78.8.90:16123/play/ch44
-#EXTINF:-1,TLNOVELAS
-http://181.78.8.90:16123/play/ch45
 #EXTINF:-1,GOLDEN
 http://181.78.8.90:16123/play/ch46
 #EXTINF:-1,GOLDEN EDGE
@@ -191,8 +185,6 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1,Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,Cali TV
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,Campo Televisión
 https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
 #EXTINF:-1,Canal 1
@@ -229,12 +221,8 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1,DW Español FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,Eduvision
-http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
 #EXTINF:-1,Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1,Fiesta Max
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
 #EXTINF:-1,Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,France 24 Español
@@ -251,8 +239,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1,LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1,Más TV
-https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1,Memorias TV 
 https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1,Mi Gente TV
@@ -283,8 +269,6 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1,SoloStandUp
 https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1,Sun Channel
-https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
 #EXTINF:-1,Suram TV
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1,Tastemade en Español
@@ -318,10 +302,11 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72224.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47920.m3u8
 #EXTINF:-1,Cablenoticias CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72212.m3u8
-#EXTINF:-1,Canal Capital HD CO
+#EXTINF:-1,WIN + HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39153.m3u8
 #EXTINF:-1,Canal Institucional HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47921.m3u8
+#EXTINF:-1,CANAL TRO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72221.m3u8
 #EXTINF:-1,CANAL UNO CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72220.m3u8
@@ -473,7 +458,7 @@ http://190.27.253.211:8000/play/a09z/index.m3u8
 http://190.27.253.211:8000/play/a05c/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.27.253.211:8000/play/a06w/index.m3u8
-#EXTINF:-1,Senal Colombia
+#EXTINF:-1,Señal Colombia
 http://190.27.253.211:8000/play/a05z/index.m3u8
 #EXTINF:-1,Sony
 http://190.27.253.211:8000/play/a05d/index.m3u8
@@ -511,3 +496,7 @@ http://190.27.253.211:8000/play/a068/index.m3u8
 http://190.27.253.211:8000/play/a05n/index.m3u8
 #EXTINF:-1,Zoom
 http://190.27.253.211:8000/play/a061/index.m3u8
+#EXTINF:-1,TLNOVELAS
+http://181.78.8.90:16123/play/ch45
+#EXTINF:-1,TELEANTIOQUIA
+http://181.78.8.90:16123/play/ch65
