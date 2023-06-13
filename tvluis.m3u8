@@ -42,13 +42,13 @@ http://181.78.8.90:16123/play/ch63
 http://181.78.8.90:16123/play/ch73
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",CAPITAL
 http://181.78.8.90:16123/play/ch70
-#EXTINF:-1,ZOOM
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",ZOOM
 http://181.78.8.90:16123/play/ch71
-#EXTINF:-1,TELEPACIFICO
+#EXTINF:-1,tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="COLOMBIA",TELEPACIFICO
 http://181.78.8.90:16123/play/ch66
-#EXTINF:-1,TELECAFE
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",TELECAFE
 http://181.78.8.90:16123/play/ch67
-#EXTINF:-1,EL TIEMPO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="COLOMBIA",EL TIEMPO
 http://181.78.8.90:16123/play/ch42
 #EXTINF:-1,SPACE HD
 http://181.78.8.90:16123/play/a066
@@ -78,7 +78,7 @@ http://181.78.8.90:16123/play/a068
 http://181.78.8.90:16123/play/ch03
 #EXTINF:-1,BABYTV
 http://181.78.8.90:16123/play/ch01
-#EXTINF:-1,ZOOMOO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",ZOOM
 http://181.78.8.90:16123/play/ch04
 #EXTINF:-1,EUROCHANNEL
 http://181.78.8.90:16123/play/ch09
@@ -283,7 +283,7 @@ https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1,Telecafé
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",Telecafé
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1,Telecaribe
@@ -298,7 +298,7 @@ http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1,Veo Televisión
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1,Zoom
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",Zoom
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1,Cable Noticias CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72224.m3u8
@@ -330,7 +330,7 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72219.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72218.m3u8
 #EXTINF:-1,DIRECTV SPORTS PLUS CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72217.m3u8
-#EXTINF:-1,El Tiempo CO
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CanalElTiempo2010.png/revision/latest?cb=20180329145437&path-prefix=es" group-title="COLOMBIA",El Tiempo CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47923.m3u8
 #EXTINF:-1,ESPN FHD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39147.m3u8
@@ -360,7 +360,7 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/47919.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39131.m3u8
 #EXTINF:-1,Telecaribe HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39132.m3u8
-#EXTINF:-1,Telepacifico HD CO
+#EXTINF:-1,tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="COLOMBIA",Telepacifico HD CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39130.m3u8
 #EXTINF:-1,TLC CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/72215.m3u8
@@ -382,8 +382,6 @@ http://190.27.253.211:8000/play/a07h/index.m3u8
 http://190.27.253.211:8000/play/a06t/index.m3u8
 #EXTINF:-1,Canal Institucional
 http://190.27.253.211:8000/play/a05x/index.m3u8
-#EXTINF:-1,Capital
-http://190.27.253.211:8000/play/a064/index.m3u8
 #EXTINF:-1,Caracol HD
 http://190.27.253.211:8000/play/a05b/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -486,7 +484,7 @@ http://190.27.253.211:8000/play/a062/index.m3u8
 http://190.27.253.211:8000/play/a05t/index.m3u8
 #EXTINF:-1,Telemundo
 http://190.27.253.211:8000/play/a06e/index.m3u8
-#EXTINF:-1,Telepacifico
+#EXTINF:-1,tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="COLOMBIA",Telepacifico
 http://190.27.253.211:8000/play/a05o/index.m3u8
 #EXTINF:-1,TyC
 http://190.27.253.211:8000/play/a06b/index.m3u8
@@ -494,7 +492,7 @@ http://190.27.253.211:8000/play/a06b/index.m3u8
 http://190.27.253.211:8000/play/a07o/index.m3u8
 #EXTINF:-1,Warner
 http://190.27.253.211:8000/play/a068/index.m3u8
-#EXTINF:-1,Zoom
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/250?cb=20210501194343&path-prefix=es" group-title="COLOMBIA",Zoom
 http://190.27.253.211:8000/play/a061/index.m3u8
 #EXTINF:-1,TLNOVELAS
 http://181.78.8.90:16123/play/ch45
@@ -538,13 +536,13 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82948.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166706.ts
 #EXTINF:-1 tvg-id="senal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",,CO : SEÑAL COLOMBIA
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166704.ts
-#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO : TELECAFE" tvg-logo="https://1.bp.blogspot.com/-kq3imjYQQ8I/X-xxYj1KTpI/AAAAAAAA7A4/_7Gwa9Mhebom7_JQ3qqyCWkdojmOJ3lDQCLcBGAsYHQ/s1080/tc.png" group-title="COLOMBIA",CO : TELECAFE
+#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",CO : TELECAFE
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166702.ts
 #EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO : TELECARIBE SD" tvg-logo="https://1.bp.blogspot.com/-aJISXbZyDto/X-xxY4tpGRI/AAAAAAAA7A8/jPPN3a8Z9tQbJWEGtL8vVwYrd_RLcU58wCLcBGAsYHQ/s1080/tcc.png" group-title="COLOMBIA",CO : TELECARIBE SD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48231.ts
 #EXTINF:-1 tvg-id="telemedellin.co" ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA",CO : TELEMEDELLIN
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/89017.ts
-#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO : TELEPACIFICO" tvg-logo="https://1.bp.blogspot.com/-A6N2G2LAn9M/YHiR9-tcXiI/AAAAAAAA9Pc/SaRiU7kapzkS7MjaNiUI124iVKZHsN1IACLcBGAsYHQ/s1080/telepacifico.png" group-title="COLOMBIA",CO : TELEPACIFICO
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO : TELEPACIFICO" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2018/07/convocatorias-para-realizacion-d.jpg" group-title="COLOMBIA",CO : TELEPACIFICO
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/88981.ts
 #EXTINF:-1 tvg-id="aande.mx" tvg-name="DIRECTO : A&E" tvg-logo="https://1.bp.blogspot.com/-g8gbfbgY-zg/X_GzqTHlTvI/AAAAAAAA7OU/2LPi2_lOAwMiijSXE_MXljzBc4kHPY7qwCLcBGAsYHQ/s1080/a%2526e.png" group-title="CINE & SERIES",DIRECTO : A&E
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/118599.ts
