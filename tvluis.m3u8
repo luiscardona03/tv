@@ -500,3 +500,227 @@ http://190.27.253.211:8000/play/a061/index.m3u8
 http://181.78.8.90:16123/play/ch45
 #EXTINF:-1,TELEANTIOQUIA
 http://181.78.8.90:16123/play/ch65
+#EXTINF:-1 tvg-id="" tvg-name="ARG : CINE AR HD" tvg-logo="https://static.wixstatic.com/media/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_3322a859914447a08ebc745c4cbfb9a6~mv2.png" group-title="ARGENTINA",ARG : CINE AR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52498.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : TNT HD" tvg-logo="https://static.wixstatic.com/media/25b08b_8ea8b368a2f442a493e7894bdc1158e4~mv2.png/v1/fill/w_562,h_562,al_c,usm_0.66_1.00_0.01/25b08b_8ea8b368a2f442a493e7894bdc1158e4~mv2.png" group-title="ARGENTINA",ARG : TNT HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52521.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="https://static.wixstatic.com/media/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png/v1/fill/w_1500,h_1500,al_c/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png" group-title="CINE PTY",CINE ACCION
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87461.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION SAGA" tvg-logo="https://static.wixstatic.com/media/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png/v1/fill/w_1500,h_1500,al_c/25b08b_5f5ac6b6eab3494c9f04ce187ae7bb8d~mv2.png" group-title="CINE PTY",CINE ACCION SAGA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/338203.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL *" tvg-logo="https://static.wixstatic.com/media/25b08b_a5b05bb823194bccb130887e054bc088~mv2.png/v1/fill/w_777,h_777,al_c,usm_0.66_1.00_0.01/25b08b_a5b05bb823194bccb130887e054bc088~mv2.png" group-title="CINE PTY",CINE MARVEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SAGA MAGIA*" tvg-logo="https://static.wixstatic.com/media/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png/v1/fill/w_777,h_777,al_c,usm_0.66_1.00_0.01/25b08b_6e69efbabd7c460cbc238bfebd334845~mv2.png" group-title="CINE PTY",CINE SAGA MAGIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/332004.ts
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO : CANAL 1" tvg-logo="https://1.bp.blogspot.com/-9T_S6Gq8yvg/X-xxSjidnyI/AAAAAAAA7AY/YEsfwIvRk1wM4SqEDRHSzSUx4IiDX_B5gCLcBGAsYHQ/s1080/cu.png" group-title="COLOMBIA",CO : CANAL 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166707.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO : CARACOL " tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/203108.ts
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL FHD (OPC1)" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL FHD (OPC1)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94119.ts
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO : CARACOL INTERNACIONAL 2" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL INTERNACIONAL 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85250.ts
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO : CARACOL OPCION 2" tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA",CO : CARACOL OPCION 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107504.ts
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO : CITY TV" tvg-logo="https://1.bp.blogspot.com/-Q_MvVfZw1MY/X-xxRQjlj_I/AAAAAAAA7AM/VIXU6y9b5UIUlKU8cA3myiu6RUtp8C9aACLcBGAsYHQ/s1080/city.png" group-title="COLOMBIA",CO : CITY TV
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166710.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO : LA KALLE" tvg-logo="https://static.wixstatic.com/media/25b08b_e490a4aa2496401ea21d00961242a1ac~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_e490a4aa2496401ea21d00961242a1ac~mv2.png" group-title="COLOMBIA",CO : LA KALLE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146935.ts
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="CO : PASIONES" tvg-logo="https://static.wixstatic.com/media/25b08b_7c3d7709785743d1892bb5463d0f4400~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_7c3d7709785743d1892bb5463d0f4400~mv2.png" group-title="COLOMBIA",CO : PASIONES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107056.ts
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166705.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO : RCN  HD2" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN  HD2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/103985.ts
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN NUESTRA TELE" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN NUESTRA TELE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82948.ts
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO : RCN opcion 2" tvg-logo="https://1.bp.blogspot.com/-0mDWARyP9lc/X-xxUahEqyI/AAAAAAAA7Ak/naHdIuCr0AIWACuMQ79IwdhzNkvP_dbqACLcBGAsYHQ/s1080/rcnn.png" group-title="COLOMBIA",CO : RCN opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166706.ts
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO : SENAL COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-i1GbE-8LH_I/X-xxWTlm3hI/AAAAAAAA7As/PUhAxrjyG7wUP094cIWKvOssNGPH92GVgCLcBGAsYHQ/s1080/sc.png" group-title="COLOMBIA",CO : SENAL COLOMBIA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166704.ts
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO : TELECAFE" tvg-logo="https://1.bp.blogspot.com/-kq3imjYQQ8I/X-xxYj1KTpI/AAAAAAAA7A4/_7Gwa9Mhebom7_JQ3qqyCWkdojmOJ3lDQCLcBGAsYHQ/s1080/tc.png" group-title="COLOMBIA",CO : TELECAFE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166702.ts
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO : TELECARIBE SD" tvg-logo="https://1.bp.blogspot.com/-aJISXbZyDto/X-xxY4tpGRI/AAAAAAAA7A8/jPPN3a8Z9tQbJWEGtL8vVwYrd_RLcU58wCLcBGAsYHQ/s1080/tcc.png" group-title="COLOMBIA",CO : TELECARIBE SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48231.ts
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO : TELEMEDELLIN" tvg-logo="https://1.bp.blogspot.com/-SDayNWvdZGU/YHiQ2xvVmcI/AAAAAAAA9PU/j6EDVsMOBBY61y3Hz6ksV74BALRnOoDpwCLcBGAsYHQ/s1080/telemedellin.png" group-title="COLOMBIA",CO : TELEMEDELLIN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/89017.ts
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO : TELEPACIFICO" tvg-logo="https://1.bp.blogspot.com/-A6N2G2LAn9M/YHiR9-tcXiI/AAAAAAAA9Pc/SaRiU7kapzkS7MjaNiUI124iVKZHsN1IACLcBGAsYHQ/s1080/telepacifico.png" group-title="COLOMBIA",CO : TELEPACIFICO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/88981.ts
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="DIRECTO : A&E" tvg-logo="https://1.bp.blogspot.com/-g8gbfbgY-zg/X_GzqTHlTvI/AAAAAAAA7OU/2LPi2_lOAwMiijSXE_MXljzBc4kHPY7qwCLcBGAsYHQ/s1080/a%2526e.png" group-title="CINE & SERIES",DIRECTO : A&E
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/118599.ts
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="DIRECTO : A&E FHD" tvg-logo="https://1.bp.blogspot.com/-g8gbfbgY-zg/X_GzqTHlTvI/AAAAAAAA7OU/2LPi2_lOAwMiijSXE_MXljzBc4kHPY7qwCLcBGAsYHQ/s1080/a%2526e.png" group-title="CINE & SERIES",DIRECTO : A&E FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121613.ts
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="DIRECTO : A&E HD" tvg-logo="https://1.bp.blogspot.com/-g8gbfbgY-zg/X_GzqTHlTvI/AAAAAAAA7OU/2LPi2_lOAwMiijSXE_MXljzBc4kHPY7qwCLcBGAsYHQ/s1080/a%2526e.png" group-title="CINE & SERIES",DIRECTO : A&E HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324622.ts
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="DIRECTO : AMC" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/260518.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324326.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="DIRECTO : ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/154992.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ANIMAL PLANET opcion 2" tvg-logo="https://1.bp.blogspot.com/-Uwb378Jjww4/X-p6ki9titI/AAAAAAAA69U/XtoSXGyURhMceLsUQ2-iK0bF0p8264K2wCLcBGAsYHQ/s1080/animal.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : ANIMAL PLANET opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166509.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324319.ts
+#EXTINF:-1 tvg-id="axncentral.pa" tvg-name="DIRECTO : AXN opcion 1" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN opcion 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/147173.ts
+#EXTINF:-1 tvg-id="axnlatinamerica.pa" tvg-name="DIRECTO : AXN opcion 2" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/263938.ts
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="DIRECTO : AZ CINEMA" tvg-logo="https://static.wixstatic.com/media/25b08b_a815588ea7ae4e87948215221a73754c~mv2.png/v1/fill/w_1008,h_1008,al_c,usm_0.66_1.00_0.01/25b08b_a815588ea7ae4e87948215221a73754c~mv2.png" group-title="CINE & SERIES",DIRECTO : AZ CINEMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/154909.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="DIRECTO : CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-CPDqtjVd3fI/X-xk5Npd2mI/AAAAAAAA6-0/XC19c-mspaEtx-VYBQ1bZm0Bw8Dt45L4QCLcBGAsYHQ/s1080/cn.png" group-title="INFANTILES",DIRECTO : CARTOON NETWORK
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166508.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-CPDqtjVd3fI/X-xk5Npd2mI/AAAAAAAA6-0/XC19c-mspaEtx-VYBQ1bZm0Bw8Dt45L4QCLcBGAsYHQ/s1080/cn.png" group-title="INFANTILES",DIRECTO : CARTOON NETWORK HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323869.ts
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="DIRECTO : CINE LATINO" tvg-logo="https://static.wixstatic.com/media/25b08b_a6b23037e4b64d888cdb79acdcb435ff~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_a6b23037e4b64d888cdb79acdcb435ff~mv2.png" group-title="CINE & SERIES",DIRECTO : CINE LATINO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/276217.ts
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="DIRECTO : CINECANAL (COL)" tvg-logo="https://1.bp.blogspot.com/-cVl1WO_m7co/X_GzaihputI/AAAAAAAA7ME/6HzC0mlidNU0XO-rLdVK0jCMsDBcT2FhQCLcBGAsYHQ/s1080/CINEC.png" group-title="CINE & SERIES",DIRECTO : CINECANAL (COL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/124042.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-e7RHsQX4XO4/X_GzZjeCBlI/AAAAAAAA7MA/624NP-2YN34PpIvgsVNcZZoC0nPw7zh5ACLcBGAsYHQ/s1080/CINMA.png" group-title="CINE & SERIES",DIRECTO : CINEMAX HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324325.ts
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="DIRECTO : CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-e7RHsQX4XO4/X_GzZjeCBlI/AAAAAAAA7MA/624NP-2YN34PpIvgsVNcZZoC0nPw7zh5ACLcBGAsYHQ/s1080/CINMA.png" group-title="CINE & SERIES",DIRECTO : CINEMAX SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121614.ts
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="DIRECTO : COMEDY CENTRAL" tvg-logo="https://1.bp.blogspot.com/-bxHF_Zk6jCA/YMkrgilC3WI/AAAAAAAA9_Y/B0Us7J_B4WABaLcHua_N8-AYMaKkw632wCLcBGAsYHQ/s1080/comedy%2Bcentral.png" group-title="ENTRETENIMIENTO",DIRECTO : COMEDY CENTRAL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/169604.ts
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="DIRECTO : DE PELICULA CLASICO" tvg-logo="https://static.wixstatic.com/media/25b08b_fa6a8e0a2bc146cca7443f1786a4be9d~mv2.png/v1/fill/w_320,h_320,al_c/25b08b_fa6a8e0a2bc146cca7443f1786a4be9d~mv2.png" group-title="CINE & SERIES",DIRECTO : DE PELICULA CLASICO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113718.ts
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="DIRECTO : DE PELICULA PLUS" tvg-logo="https://static.wixstatic.com/media/25b08b_99a0f043942f4c8e94c2a5c3aa65c33f~mv2.png/v1/fill/w_320,h_320,al_c/25b08b_99a0f043942f4c8e94c2a5c3aa65c33f~mv2.png" group-title="CINE & SERIES",DIRECTO : DE PELICULA PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113717.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DHE" tvg-logo="https://1.bp.blogspot.com/-SHvQ9VYtJCI/X_GzbO8k1LI/AAAAAAAA7MM/1-r9iw5uW5c2bOVhDekCVWMOS7xdbXJ9QCLcBGAsYHQ/s1080/DHE.png" group-title="CINE & SERIES",DIRECTO : DHE
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/324327.ts
+#EXTINF:-1 tvg-id="canaldhelatinamerica.pa" tvg-name="DIRECTO : DHE FHD" tvg-logo="https://1.bp.blogspot.com/-SHvQ9VYtJCI/X_GzbO8k1LI/AAAAAAAA7MM/1-r9iw5uW5c2bOVhDekCVWMOS7xdbXJ9QCLcBGAsYHQ/s1080/DHE.png" group-title="CINE & SERIES",DIRECTO : DHE FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121620.ts
+#EXTINF:-1 tvg-id="canaldhelatinamerica.pa" tvg-name="DIRECTO : DHE HD" tvg-logo="https://1.bp.blogspot.com/-SHvQ9VYtJCI/X_GzbO8k1LI/AAAAAAAA7MM/1-r9iw5uW5c2bOVhDekCVWMOS7xdbXJ9QCLcBGAsYHQ/s1080/DHE.png" group-title="CINE & SERIES",DIRECTO : DHE HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/63766.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DIRECTV SPORTS 2 HD" tvg-logo="https://1.bp.blogspot.com/-0iQxPeG7O7E/X-nmjfdGMQI/AAAAAAAA65U/HScQBQmXl04rL2wYoYqK7f7UViu8mI9JgCLcBGAsYHQ/s1080/directv%2Bspor%2B2.png" group-title="DEPORTES",DIRECTO : DIRECTV SPORTS 2 HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49018.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DIRECTV SPORTS PLUS" tvg-logo="https://1.bp.blogspot.com/-X_NvB26cz20/X-nmjPZpFGI/AAAAAAAA65M/QoBxbfpf-AUuG63BsEoq6pZUT-7imGB6gCLcBGAsYHQ/s1080/directv%2B%252B.png" group-title="DEPORTES",DIRECTO : DIRECTV SPORTS PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/78750.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DIRECTV SPORTS PLUS HD" tvg-logo="https://1.bp.blogspot.com/-X_NvB26cz20/X-nmjPZpFGI/AAAAAAAA65M/QoBxbfpf-AUuG63BsEoq6pZUT-7imGB6gCLcBGAsYHQ/s1080/directv%2B%252B.png" group-title="DEPORTES",DIRECTO : DIRECTV SPORTS PLUS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/113713.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DIRECTO : DISCOVERY CHANNEL 1" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY CHANNEL 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85726.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DIRECTO : DISCOVERY CHANNEL 2" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY CHANNEL 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85727.ts
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="DIRECTO : DISCOVERY CHANNEL 3" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY CHANNEL 3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85728.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY CHANNEL 4" tvg-logo="https://1.bp.blogspot.com/-3-c0Xga19AE/X-p6k6NOqoI/AAAAAAAA69Y/_mXsT9TMihUajWCqkjJhHixuUU5GGq05ACLcBGAsYHQ/s1080/dc.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY CHANNEL 4
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323868.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY FAMILIA " tvg-logo="https://1.bp.blogspot.com/-n4fBFVa69t8/X-p6g4QASmI/AAAAAAAA68s/gNat8346Elowftc2iOuxOkoEkAjngky-wCLcBGAsYHQ/s1080/DF.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY FAMILIA 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121707.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY FAMILIA HD" tvg-logo="https://1.bp.blogspot.com/-n4fBFVa69t8/X-p6g4QASmI/AAAAAAAA68s/gNat8346Elowftc2iOuxOkoEkAjngky-wCLcBGAsYHQ/s1080/DF.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY FAMILIA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121708.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DIRECTO : DISCOVERY H&H 1 HD " tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY H&H 1 HD 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85731.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DIRECTO : DISCOVERY H&H 2 HD " tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY H&H 2 HD 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/330979.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DIRECTO : DISCOVERY H&H opcion 2" tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY H&H opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166510.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DIRECTO : DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-A15vnBb1Afk/X-xk7v3KG3I/AAAAAAAA6_A/wj8EHhoHXVwZ3fgWSbCUq_OexOEupHjLQCLcBGAsYHQ/s1080/dki.png" group-title="INFANTILES",DIRECTO : DISCOVERY KIDS FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146513.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY KIDS HD" tvg-logo="https://1.bp.blogspot.com/-A15vnBb1Afk/X-xk7v3KG3I/AAAAAAAA6_A/wj8EHhoHXVwZ3fgWSbCUq_OexOEupHjLQCLcBGAsYHQ/s1080/dki.png" group-title="INFANTILES",DIRECTO : DISCOVERY KIDS HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323863.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DIRECTO : DISCOVERY KIDS SD" tvg-logo="https://1.bp.blogspot.com/-A15vnBb1Afk/X-xk7v3KG3I/AAAAAAAA6_A/wj8EHhoHXVwZ3fgWSbCUq_OexOEupHjLQCLcBGAsYHQ/s1080/dki.png" group-title="INFANTILES",DIRECTO : DISCOVERY KIDS SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166921.ts
+#EXTINF:-1 tvg-id="discoverysciencelatinamerica.pa" tvg-name="DIRECTO : DISCOVERY SCIENCE HD" tvg-logo="https://1.bp.blogspot.com/-l8euyxIWD54/X-p6hJ6VOgI/AAAAAAAA680/2ifuY2JQyrox_Vsj3zH4sj6GGU8sYVNfQCLcBGAsYHQ/s1080/DS.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY SCIENCE HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87101.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY SCIENCE opcion 2" tvg-logo="https://1.bp.blogspot.com/-l8euyxIWD54/X-p6hJ6VOgI/AAAAAAAA680/2ifuY2JQyrox_Vsj3zH4sj6GGU8sYVNfQCLcBGAsYHQ/s1080/DS.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY SCIENCE opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166511.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY THEATER" tvg-logo="https://1.bp.blogspot.com/-YzoRQ772cG0/X-p6hyJPG2I/AAAAAAAA684/4exf4RC6u50448ZodiKm8mHP85PmEzlZgCLcBGAsYHQ/s1080/DTH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY THEATER
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/133289.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY THEATER HD" tvg-logo="https://1.bp.blogspot.com/-YzoRQ772cG0/X-p6hyJPG2I/AAAAAAAA684/4exf4RC6u50448ZodiKm8mHP85PmEzlZgCLcBGAsYHQ/s1080/DTH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY THEATER HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323859.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY THEATER SD" tvg-logo="https://1.bp.blogspot.com/-YzoRQ772cG0/X-p6hyJPG2I/AAAAAAAA684/4exf4RC6u50448ZodiKm8mHP85PmEzlZgCLcBGAsYHQ/s1080/DTH.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY THEATER SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139416.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY TLC" tvg-logo="https://1.bp.blogspot.com/-y9I3MN7FsMw/X-p6iyAhglI/AAAAAAAA688/YZ6n0PgHqsApsMS0oYSsscavtRIIQ2gwwCLcBGAsYHQ/s1080/DTLC.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY TLC
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/129169.ts
+#EXTINF:-1 tvg-id="discoveryturbolatinamerica.pa" tvg-name="DIRECTO : DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-Qo-XkvrqhRw/X-p6nJtg2rI/AAAAAAAA69k/viPL8K1KC3MlLN5h-q9HqH2QgC8lCKTSQCLcBGAsYHQ/s1080/dtu.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY TURBO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166500.ts
+#EXTINF:-1 tvg-id="discoveryturbolatinamerica.pa" tvg-name="DIRECTO : DISCOVERY TURBO opcion 2" tvg-logo="https://1.bp.blogspot.com/-Qo-XkvrqhRw/X-p6nJtg2rI/AAAAAAAA69k/viPL8K1KC3MlLN5h-q9HqH2QgC8lCKTSQCLcBGAsYHQ/s1080/dtu.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY TURBO opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166501.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY TURBO SD" tvg-logo="https://1.bp.blogspot.com/-Qo-XkvrqhRw/X-p6nJtg2rI/AAAAAAAA69k/viPL8K1KC3MlLN5h-q9HqH2QgC8lCKTSQCLcBGAsYHQ/s1080/dtu.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY TURBO SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/189922.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISCOVERY WORLD HD" tvg-logo="https://1.bp.blogspot.com/-y0ydC-4JucU/X-p6oTozj6I/AAAAAAAA69o/NAHnR6hfpbYNQV6bz10jOs6xGY4srHYTACLcBGAsYHQ/s1080/dw.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY WORLD HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323861.ts
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DIRECTO : DISCOVERY WORLD SD" tvg-logo="https://1.bp.blogspot.com/-y0ydC-4JucU/X-p6oTozj6I/AAAAAAAA69o/NAHnR6hfpbYNQV6bz10jOs6xGY4srHYTACLcBGAsYHQ/s1080/dw.png" group-title="CULTURA & DOCUMENTAL",DIRECTO : DISCOVERY WORLD SD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/169819.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="DIRECTO : DISNEY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-LQG3wWNq1bU/X-xk7G4WPUI/AAAAAAAA6-8/dBzDboDTo1IcLIzguipH8YXfs1cNIzz-gCLcBGAsYHQ/s1080/dc.png" group-title="INFANTILES",DIRECTO : DISNEY CHANNEL
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166504.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISNEY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-LQG3wWNq1bU/X-xk7G4WPUI/AAAAAAAA6-8/dBzDboDTo1IcLIzguipH8YXfs1cNIzz-gCLcBGAsYHQ/s1080/dc.png" group-title="INFANTILES",DIRECTO : DISNEY CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323871.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="DIRECTO : DISNEY JR" tvg-logo="https://1.bp.blogspot.com/-M7w-kzmJdA8/X-xk6lOT3AI/AAAAAAAA6-4/pZuwSDhI-uoukV8B7n0u59HgV_OLWAxGgCLcBGAsYHQ/s1080/dj.png" group-title="INFANTILES",DIRECTO : DISNEY JR
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166503.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : DISNEY JR HD" tvg-logo="https://1.bp.blogspot.com/-M7w-kzmJdA8/X-xk6lOT3AI/AAAAAAAA6-4/pZuwSDhI-uoukV8B7n0u59HgV_OLWAxGgCLcBGAsYHQ/s1080/dj.png" group-title="INFANTILES",DIRECTO : DISNEY JR HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323862.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="DIRECTO : DISTRITO COMEDIA HD" tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="ENTRETENIMIENTO",DIRECTO : DISTRITO COMEDIA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85773.ts
+#EXTINF:-1 tvg-id="espn.co" tvg-name="DIRECTO : ESPN 1 (COL)" tvg-logo="https://1.bp.blogspot.com/-3iUxK96wp78/X-nmOS3PuoI/AAAAAAAA624/caLkoXb8hI8EwD8mffSwzPLSguvEAYTWwCLcBGAsYHQ/s1080/ESPN%2B1.png" group-title="DEPORTES",DIRECTO : ESPN 1 (COL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82236.ts
+#EXTINF:-1 tvg-id="espn2latinamerica.pa" tvg-name="DIRECTO : ESPN 2 (COL)" tvg-logo="https://1.bp.blogspot.com/-YSQkgBlVCWs/X-nmO3tEwqI/AAAAAAAA628/kknMNQI4pbgShTFpfSDIbdegiL1SnwT0wCLcBGAsYHQ/s1080/ESPN%2B2%2BSUR.png" group-title="DEPORTES",DIRECTO : ESPN 2 (COL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/88002.ts
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="DIRECTO : ESPN 3 (COL)" tvg-logo="https://1.bp.blogspot.com/-PS2HZ8GWLLI/X-nmPwi77qI/AAAAAAAA63M/Lj7Lax_VWw8sBFEyOw8lu8eain3nQzBPQCLcBGAsYHQ/s1080/ESPN%2B3.png" group-title="DEPORTES",DIRECTO : ESPN 3 (COL)
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/102612.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ESPN 4" tvg-logo="https://static.wixstatic.com/media/25b08b_f17030fee4a540beac81da560c8d5c61~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_f17030fee4a540beac81da560c8d5c61~mv2.png" group-title="DEPORTES",DIRECTO : ESPN 4
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/137845.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="DIRECTO : ESPN 4 opcion 2" tvg-logo="https://static.wixstatic.com/media/25b08b_f17030fee4a540beac81da560c8d5c61~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_f17030fee4a540beac81da560c8d5c61~mv2.png" group-title="DEPORTES",DIRECTO : ESPN 4 opcion 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/49000.ts
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="DIRECTO : ESPN DEPORTES " tvg-logo="https://1.bp.blogspot.com/--Z_cLmGN-Dg/X-nmP3SuHLI/AAAAAAAA63I/mWW3Ndysdn4PdCSFhkpZaC2kkRfuxAKzgCLcBGAsYHQ/s1080/ESPN%2BDEPORTES.png" group-title="DEPORTES",DIRECTO : ESPN DEPORTES 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/78749.ts
+#EXTINF:-1 tvg-id="espn.co" tvg-name="DIRECTO : ESPN DEPORTES HD" tvg-logo="https://1.bp.blogspot.com/--Z_cLmGN-Dg/X-nmP3SuHLI/AAAAAAAA63I/mWW3Ndysdn4PdCSFhkpZaC2kkRfuxAKzgCLcBGAsYHQ/s1080/ESPN%2BDEPORTES.png" group-title="DEPORTES",DIRECTO : ESPN DEPORTES HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94154.ts
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DIRECTO : ESPN EXTRA FHD" tvg-logo="https://1.bp.blogspot.com/-MHZ5rw3mpz8/X-nmQbqZAkI/AAAAAAAA63Q/0T7SUt7N4MYlGBTp9lJjQWDHSaheybbYwCLcBGAsYHQ/s1080/ESPN%2BEXTRA.png" group-title="DEPORTES",DIRECTO : ESPN EXTRA FHD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48990.ts
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DIRECTO : ESPN EXTRA HD" tvg-logo="https://1.bp.blogspot.com/-MHZ5rw3mpz8/X-nmQbqZAkI/AAAAAAAA63Q/0T7SUt7N4MYlGBTp9lJjQWDHSaheybbYwCLcBGAsYHQ/s1080/ESPN%2BEXTRA.png" group-title="DEPORTES",DIRECTO : ESPN EXTRA HD
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48989.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : ESPN PREMIUM" tvg-logo="https://static.wixstatic.com/media/25b08b_a7e54cfb207e490aac7fbc74b078aadd~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_a7e54cfb207e490aac7fbc74b078aadd~mv2.png" group-title="DEPORTES",DIRECTO : ESPN PREMIUM
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/165275.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : EUROPA EUROPA" tvg-logo="https://static.wixstatic.com/media/25b08b_faa73331c35447ed85cb2663152c44a5~mv2.png/v1/fill/w_448,h_448,al_c,lg_1/25b08b_faa73331c35447ed85cb2663152c44a5~mv2.png" group-title="CINE & SERIES",DIRECTO : EUROPA EUROPA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121621.ts
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="DIRECTO : FILM & ART " tvg-logo="https://static.wixstatic.com/media/25b08b_3200aa49198c42cf83b983ed68383000~mv2.png/v1/fill/w_320,h_320,al_c/25b08b_3200aa49198c42cf83b983ed68383000~mv2.png" group-title="CINE & SERIES",DIRECTO : FILM & ART 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121704.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : CANTINFLA 1" tvg-logo="https://1.bp.blogspot.com/-5waXRMz2_HA/X-9qQGYMyMI/AAAAAAAA7Ec/iq4al7JM6a8uMtKDUWxptizm-ssgZarKACLcBGAsYHQ/s1080/cant.png" group-title="24/7",24/7 : CANTINFLA 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/273153.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : COYOTE & CORRE CAMINO" tvg-logo="https://1.bp.blogspot.com/-rHwdWhVQ508/X-9qVy7BBcI/AAAAAAAA7Eo/WPwUKXGQOrQCos7zCMWuhSO2tK4qS7LewCLcBGAsYHQ/s1080/coyo.png" group-title="24/7",24/7 : COYOTE & CORRE CAMINO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/85872.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : DAVE EL BARBARO" tvg-logo="https://1.bp.blogspot.com/-YXah5t6FGgE/X-9qUyq4KWI/AAAAAAAA7Ek/ZSdFUbQ_6pE_qn7QmKmET40_lVr2pSeRgCLcBGAsYHQ/s1080/dave.png" group-title="24/7",24/7 : DAVE EL BARBARO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87418.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL CHAPULIN COLORADO" tvg-logo="https://1.bp.blogspot.com/-fI4RG5cdxTg/X-9qP_F8p4I/AAAAAAAA7EY/VtoAfNfsCiQa_1OA-022gx7Zt6TadR-8QCLcBGAsYHQ/s1080/cc.png" group-title="24/7",24/7 : EL CHAPULIN COLORADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87396.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL CHAVO DEL OCHO 1" tvg-logo="https://1.bp.blogspot.com/-v6Jb2IR3vSs/X-9qUAWMFXI/AAAAAAAA7Eg/ChoqBLZupRcZ2o_GN8AiQnpVqSyQ5jEbwCLcBGAsYHQ/s1080/cd8.png" group-title="24/7",24/7 : EL CHAVO DEL OCHO 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87395.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL CHAVO DEL OCHO 2" tvg-logo="https://1.bp.blogspot.com/-v6Jb2IR3vSs/X-9qUAWMFXI/AAAAAAAA7Eg/ChoqBLZupRcZ2o_GN8AiQnpVqSyQ5jEbwCLcBGAsYHQ/s1080/cd8.png" group-title="24/7",24/7 : EL CHAVO DEL OCHO 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94963.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL COYOTE & EL CORRECAMINO 2" tvg-logo="https://1.bp.blogspot.com/-rHwdWhVQ508/X-9qVy7BBcI/AAAAAAAA7Eo/WPwUKXGQOrQCos7zCMWuhSO2tK4qS7LewCLcBGAsYHQ/s1080/coyo.png" group-title="24/7",24/7 : EL COYOTE & EL CORRECAMINO 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87390.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL PRINICIPE DEL RAP" tvg-logo="https://1.bp.blogspot.com/-rCyUcBuOnTc/X-9rRGE5spI/AAAAAAAA7Hs/S_EyciT1_jkYWjwBZCjuJr8H3pNTIjLZwCLcBGAsYHQ/s1080/pdb.png" group-title="24/7",24/7 : EL PRINICIPE DEL RAP
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87432.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL ZORRO" tvg-logo="https://1.bp.blogspot.com/-MuNi1fh615w/X-9qrYldbxI/AAAAAAAA7Fs/WwZsrrXCnfs6gtvdDFZVr4YFd4imaXcIgCLcBGAsYHQ/s1080/ez.png" group-title="24/7",24/7 : EL ZORRO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87422.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : FUTURAMA" tvg-logo="https://1.bp.blogspot.com/-GPd5Ux5kWaA/X-9qvUi2AiI/AAAAAAAA7F8/e7a3V7XtWaQfMla9fqu-P8uXPJzy0SF4ACLcBGAsYHQ/s1080/frm.png" group-title="24/7",24/7 : FUTURAMA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87397.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : HE-MAN" tvg-logo="https://1.bp.blogspot.com/-YkWg7ON_fHE/X-9q3B_iVLI/AAAAAAAA7GY/dLR486IXCdoCCI9jtTCZQ1LCsuJsFY4ywCLcBGAsYHQ/s1080/hm.png" group-title="24/7",24/7 : HE-MAN
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87398.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : HEIDI" tvg-logo="https://1.bp.blogspot.com/-Y9G2vb729tQ/X-9q1_3KT2I/AAAAAAAA7GQ/RKrzRHi34nE_OA5DcRxpWspORq5-BvckgCLcBGAsYHQ/s1080/he.png" group-title="24/7",24/7 : HEIDI
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65627.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : HOMBRE DE NEGRO ANIMADO" tvg-logo="https://1.bp.blogspot.com/-TnNeTVl6d5I/X-9rI3QzX2I/AAAAAAAA7HQ/aThrYS-XQqAECjb_1pXS-b3DoaJxrOQ0gCLcBGAsYHQ/s1080/mib.png" group-title="24/7",24/7 : HOMBRE DE NEGRO ANIMADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87413.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : JUEGOS DE TRONOS" tvg-logo="https://static.wixstatic.com/media/25b08b_2df5a547d96640b889a3908b13a77ea6~mv2.png/v1/fill/w_1124,24/7 : JUEGOS DE TRONOS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/284161.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : LA PEQUEÑA LULU" tvg-logo="https://1.bp.blogspot.com/-zZ9ZlWoVBOU/X-9q_C2kNWI/AAAAAAAA7Gw/X1tMq44w7xQWWU-STglw1oyxoeh-RAPDACLcBGAsYHQ/s1080/lpll.png" group-title="24/7",24/7 : LA PEQUEÑA LULU
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87458.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : LOS CABALLERO DEL ZODIACO" tvg-logo="https://static.wixstatic.com/media/25b08b_3f3019efd5034fb889f6536b5f87df02~mv2.png/v1/fill/w_1008,h_1008,al_c,usm_0.66_1.00_0.01/25b08b_3f3019efd5034fb889f6536b5f87df02~mv2.png" group-title="24/7",24/7 : LOS CABALLERO DEL ZODIACO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87388.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : LOS SIMPSONS 2" tvg-logo="https://static.wixstatic.com/media/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png" group-title="24/7",24/7 : LOS SIMPSONS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : MI BELLA GENIO" tvg-logo="https://1.bp.blogspot.com/--wThMCRnts4/X-9rG4l-SmI/AAAAAAAA7HM/FTo_iAYkhcgQIwyEXO6YKy8yII8dUKFvQCLcBGAsYHQ/s1080/mbg.png" group-title="24/7",24/7 : MI BELLA GENIO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/65641.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : PINKY Y CEREBRO" tvg-logo="https://static.wixstatic.com/media/25b08b_ebd889e7e806462585aecf65ae301f4f~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_ebd889e7e806462585aecf65ae301f4f~mv2.png" group-title="24/7",24/7 : PINKY Y CEREBRO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87402.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : SOUTH PARK 1 " tvg-logo="https://static.wixstatic.com/media/25b08b_d37d0143b197474ab2c162b9a11c4319~mv2.png/v1/fill/w_562,h_562,al_c,usm_0.66_1.00_0.01/25b08b_d37d0143b197474ab2c162b9a11c4319~mv2.png" group-title="24/7",24/7 : SOUTH PARK 1 
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/114058.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : SUPERVIVENCIA AL DESNUDO" tvg-logo="https://static.wixstatic.com/media/25b08b_68fa7c554e554bc4930639bd929b87ec~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_68fa7c554e554bc4930639bd929b87ec~mv2.png" group-title="24/7",24/7 : SUPERVIVENCIA AL DESNUDO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339678.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : TOM & JERRY" tvg-logo="https://static.wixstatic.com/media/25b08b_1d4dfe91e86f4bdab7cbf9b52fdd9706~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_1d4dfe91e86f4bdab7cbf9b52fdd9706~mv2.png" group-title="24/7",24/7 : TOM & JERRY
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87437.ts
