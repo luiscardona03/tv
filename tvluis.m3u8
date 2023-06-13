@@ -10,9 +10,9 @@ http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39153.m3u8
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/52040.m3u8
 #EXTINF:-1,Win
 http://190.27.253.211:8000/play/a05n/index.m3u8
-#EXTINF:-1,Caracol CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA", Caracol CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39149.m3u8
-#EXTINF:-1,Caracol FHD CO
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-ESm8doqB7JA/X-xxR7lPnxI/AAAAAAAA7AQ/xNwk27qVi-khjbmGClRB1Yaupjjb0XS9ACLcBGAsYHQ/s1080/cara.png" group-title="COLOMBIA", CARACOL FHD
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39148.m3u8
 #EXTINF:-1,Caracol Internacional CO
 http://31.220.3.239:2095/live/kTEkjNyx/qU6CUg7d/39146.m3u8
