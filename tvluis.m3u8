@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
 #EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 2
@@ -232,8 +234,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
