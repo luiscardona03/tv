@@ -1,7 +1,57 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 2
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 3
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 2
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 3
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png",COL| Cablenoticias
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png",COL| Canal Uno
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL opc2
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png",COL| Caracol Internacional
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/3c9c23cf3b3110edd5de217492ba23bf.png",COL| CITY TV
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",COL| NTN24
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc2
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc3
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",COL| Señal Colombia
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",COL| TeleAntioquia
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",COL| cali tv
+https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png",COL| TeleCaribe
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",COL| Tele-pacifico
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU",COL| tv agro
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",COL| telecafe
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU",COL| cosmovision
+http://magmas5.com:8000/Oscar86/40473/150372
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMNj7E8rn56uWnstFxNSt_tt3412HyJ7Ulw&usqp=CAU",COL| canal trece
+https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",COL| Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/634
 
@@ -1129,48 +1179,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 07
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 08
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png",COL| Cablenoticias
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png",COL| Canal Uno
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL opc2
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png",COL| Caracol Internacional
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/3c9c23cf3b3110edd5de217492ba23bf.png",COL| CITY TV
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",COL| NTN24
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc2
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc3
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",COL| Señal Colombia
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",COL| TeleAntioquia
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",COL| cali tv
-https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png",COL| TeleCaribe
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",COL| Tele-pacifico
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU",COL| tv agro
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",COL| telecafe
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU",COL| cosmovision
-http://magmas5.com:8000/Oscar86/40473/150372
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMNj7E8rn56uWnstFxNSt_tt3412HyJ7Ulw&usqp=CAU",COL| canal trece
-https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
-#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",COL| Eureka
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",CINE| HBO
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",CINE| HBO
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
 #EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png",CINE| HBO 2
 http://gotv.vip:8880/Angel2023/Angel2023/88
@@ -1400,18 +1409,6 @@ http://magmas5.com:8000/Oscar86/40473/148895
 http://magmas5.com:8000/Oscar86/40473/148711
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION Philadelphia
 http://magmas5.com:8000/Oscar86/40473/148725
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 2
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 3
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 2
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 3
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
 #EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",AR | ESPN SPORTS 1
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915
 #EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",AR | ESPN SPORT 2
